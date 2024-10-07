@@ -1133,7 +1133,7 @@
       "category": "other",
       "iconUrl": "https://coin-images.coingecko.com/coins/images/36569/large/Pencils_Protocol_Profile_Pic.png?1722658792",
       "chainId": 534352,
-      "source": "native",
+      "source": "canonical",
       "supply": "totalSupply"
     },
     {

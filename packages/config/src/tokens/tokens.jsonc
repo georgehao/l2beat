@@ -3508,7 +3508,7 @@
     {
       "symbol": "DAPP",
       "address": "0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3",
-      "source": "native",
+      "source": "canonical",
       "supply": "totalSupply"
     },
     {
