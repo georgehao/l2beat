@@ -1125,7 +1125,7 @@
     {
       "name": "Pencils Protocol",
       "coingeckoId": "penpad-token",
-      "address": "0x5FC429110A64bC51b57Ca86dCE1714FD0fBec303",
+      "address": "0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3",
       "symbol": "DAPP",
       "decimals": 18,
       "deploymentTimestamp": 1726245971,
